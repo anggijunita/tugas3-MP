@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ecommerce</string>
+    <string name="content_price">Rp.207.500.000</string>
+    <string name="deskripsi">- Deskripsi</string>
+    <string name="content_text">oyota Avanza adalah mobil yang diproduksi di Indonesia oleh pabrikan Daihatsu, yang dipasarkan dalam dua merek dan nama yaitu Toyota Avanza dan Daihatsu Xenia. Generasi pertama mobil ini diluncurkan saat berlangsungnya kegiatan Gaikindo Auto Expo 2003 dan terjual sebesar 100.000 unit pada tahun tersebut.</string>
+    <string name="tempat_duduk">7 kursi</string>
+    <string name="mesin">1329cc</string>
+    <string name="tenaga">91 hp</string>
+    <string name="power_streeng">Ya</string>
+    <string name="kantong_udara_pengemudi">Ya</string>
+    <string name="Ground">200 mm</string
+    <string name="berat">500 kg</string>
+    <string name="stok">5</string>
+</resources>
